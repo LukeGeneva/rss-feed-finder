@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "YouTube RSS",
+  "name": "RSS Feed Finder",
   "version": "1.0",
-  "description": "Extracts the RSS feed URL from YouTube channel pages.",
+  "description": "Finds and copies the RSS feed URL from any webpage.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
